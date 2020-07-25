@@ -18,7 +18,7 @@
 
             android:layout_gravity="start"
             android:layout_width="match_parent"
-            app:title="Vault"
+            app:title="Strong Room"
             android:layout_height="wrap_content"
             android:minHeight="?attr/actionBarSize"
             android:background="@color/red"
@@ -47,7 +47,7 @@
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
         android:background="#fff"
-        app:itemIconTint="#0c286c"
+        app:itemIconTint="#b30746"
         android:theme="@style/NavigationTheme"
         app:itemTextColor="#000"
         app:headerLayout="@layout/nav_header_main"

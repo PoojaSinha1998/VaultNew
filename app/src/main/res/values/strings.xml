@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Vault</string>
+    <string name="app_name">Strong Room</string>
     <string name="name">Name</string>
     <string name="hint_password">Password</string>
     <string name="label_remember_me">Remember Me</string>

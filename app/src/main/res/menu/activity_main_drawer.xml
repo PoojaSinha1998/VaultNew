@@ -7,12 +7,12 @@
     <item
         android:id="@+id/c_password"
         android:icon="@drawable/password"
-        android:iconTint="#39af0e"
+        android:iconTint="#b30746"
         android:title="Change Password" />
         <item
             android:id="@+id/c_pin"
 
-            android:iconTint="#8b0e42"
+            android:iconTint="#b30746"
             android:icon="@drawable/pin"
             android:title="Change Pin" />
     <!--<item-->
